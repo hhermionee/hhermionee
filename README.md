@@ -1,0 +1,5 @@
+- 👋 Hi! I'm Anya @hhermionee
+- 👀 Looking for an intern or junior frontend developer job. Studying for it at lot :)
+- 💞️ In love with adaptive and responsive websites and JavaScript
+- 🌱 Currently learning DOM and advanced JavaScript
+- 📫 How to reach me: t.me/poroshinaa
